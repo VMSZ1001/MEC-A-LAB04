@@ -1,0 +1,4 @@
+Nombre: Juan Cedula: 1072420013 placa: UGB-683 Tipo de vehiculo: Carro Hora de entrada: 12:47 Hora de salida 12:47 Total pago:  0
+Nombre: Carlos Cedula: 755412356 placa: N/A Tipo de vehiculo: Otro Hora de entrada: 07:46 Hora de salida 08:10 Total pago:  3600
+Nombre: Carlos Cedula: 755412356 placa: N/A Tipo de vehiculo: Otro Hora de entrada: 07:46 Hora de salida 08:10 Total pago:  1840
+Nombre: Yiyo Cedula: 45445 placa: asdkjasd4 Tipo de vehiculo: Carro Hora de entrada: 01:23 Hora de salida 01:24 Total pago:  80

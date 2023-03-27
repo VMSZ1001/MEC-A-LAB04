@@ -1,0 +1,6 @@
+Nombre: Juan Cedula: 107242013 placa: UGB-683 Tipo de vehiculo: Carro Hora de entrada: 12:45
+Nombre: Juan Cedula: 1072420013 placa: UGB-683 Tipo de vehiculo: Carro Hora de entrada: 12:47
+Nombre: Juan David Cedula: 1072420013 placa: UGB683 Tipo de vehiculo: Carro Hora de entrada: 07:44
+Nombre: Angelica Cedula: 456555213 placa: QBW59D Tipo de vehiculo: Moto Hora de entrada: 07:45
+Nombre: Carlos Cedula: 755412356 placa: N/A Tipo de vehiculo: Otro Hora de entrada: 07:46
+Nombre: Yiyo Cedula: 45445 placa: asdkjasd4 Tipo de vehiculo: Carro Hora de entrada: 01:23
